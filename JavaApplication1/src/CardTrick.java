@@ -28,7 +28,7 @@ public class CardTrick {
             }
         }
         if (found) {
-            System.out.println("Congratulations!");
+            System.out.println(" Congratulations!");
         } else {
             System.out.println("Sorry!");
         }
